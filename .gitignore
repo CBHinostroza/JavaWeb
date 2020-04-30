@@ -1,12 +1,2 @@
-src/java/dataservice/despachadores/conexion/*.java
-src/java/businessservice/*.java
-src/java/dataservice/despachadores/interfaces/*.java
-src/conf/
-build/
-build.xml
-nbproject/
-web/js/
-web/META-INF/
-web/WEB-INF/
 
 
